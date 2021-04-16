@@ -1,0 +1,21 @@
+1.	Instalar VS CODE
+2.	https://cwi.com.br/blog/testes-automatizados-cypress-e-cucumber/
+3.	Instalar Dependências VS CODE
+4.	Instalar CMDER
+5.	Instalar NODE JS
+6.	Executar no cmd na pasta que será criado o projeto: npm install  - -save-dev cypress cypress-cucumber-preprocessor
+7.	Executar na pasta do projeto: CMD -> npx cypress open
+8.	Aula “cypress 04” minuto 50:00
+
+9.	Configurar index.js Pasta plug-ins
+10.	Configurar index.js Pasta Support
+11.	Configurar cypress.json
+12.	Criar as pastas elements, steps e pageobjects  na pasta support
+13.	Criar arquivo package.json na pasta geral do projeto
+14.	Criar arquivo .feature na pasta integration
+15.	Criar arquivo .Steps na pasta steps
+16.	Criar arquivo .Elements na pasta elements
+17.	Criar arquivo .Page na pasta PageObjects
+
+18.	Relatórios: Instalar mocha: npm install mochawesome –D
+19.	Editar Cypress.json

@@ -1,0 +1,17 @@
+{
+    "baseurl": "http://prova.stefanini-jgr.com.br/teste/qa/",
+    "viewportHeight":1080,
+    "viewportWidth":1920,
+    "defaultCommandTimeout":10000,
+
+    "video":true,
+    "videoUploadOnPasses":true,
+    "videoCompression":32,
+
+    "reporter": "mochawesome", 
+
+    "reporterOptions":{
+        "overwrite":false
+    },
+    "experimentalSourceRewriting": true
+}
